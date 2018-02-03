@@ -1,0 +1,36 @@
+Military Infantry:
+
+Primary:Maplestrike(363)
+Modifications:RedHaloSight(147) VerticalGrip(8) TacticalLaser(151) MilitaryMuzzle($
+
+Secondary:Desert Falcon(488)
+Modifications:None
+
+Knife:Military Knife(121)
+
+Clothing:
+Forest Military Top(307)
+Forest Military Bottom(308)
+Forest Military Helmet(309)
+Forest Military Vest(310)
+Backpack:
+Alicepack(253)
+Head:
+Earpiece(1446)
+Military Nightvision(334)
+Possible Green Balaclava(436)
+
+Ammo:
+Military Magazine x10 (6)
+Desert Falcon Magazine x5 (489)
+
+Grenades:
+Fragmentation Grenade (254)
+White Smoke (267)
+Flashbang (1346)
+
+Medical:
+Medkit(15)
+Dressing x4 (394)
+Morphine(388)
+MRE x4 (81)
